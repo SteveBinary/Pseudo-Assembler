@@ -1,0 +1,15 @@
+ld
+st
+in
+out
+add
+sub
+mul
+div
+mod
+cmp
+jmp
+jlt
+jeq
+jgt
+end
